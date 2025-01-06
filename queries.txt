@@ -1,0 +1,1085 @@
+﻿query_id: C001
+title: Qaabdhismeedka Berlin
+description: Hel dokumintiyada qaabdhismeedka Berlin. 
+
+
+query_id: C002
+title: Aragtida Korontada liidata
+description: Hel dokumintiyada soo wargeliyaa ogaanshaha hadeer ee goobta subnuclear physics ee xaqiijiyaa aragtida korontada liidata ee la mideeyay ee Weinberg-Salam-Glashow.
+
+query_id: C003 
+title: Daroogada Holland
+description: Waa maxay xeerka daroogada ee Netherlands?
+
+
+query_id: C004
+title: Fatahaadaha Yurub
+description: Hel dokumintiyada bixiyaa qiyaasaha qarashaadka dhaqaalaha ee waxyeelada beeraha ee ay sababaan fatahaada Yurub.
+
+
+query_id: C005
+title: Xubinnimada Ururka Yurubiyaanka 
+description: Aqoonso dabeecadaha wadamada aan xubinta aheyn ee dhinaca ku biirista Bulshada Yurubta ama Ururka Yurubka.
+
+query_id: C006
+title: Diidayaasha Ka go’antahay ee Faransiiska
+description: Shaqooyinkee waxaa la siiyay diidayaasha ka go’antahay ee Faransiiska inta lagu jiray adeega qarankooda?
+
+query_id: C007 
+title: Isticmaalka Daroogada iyo kubada cagta
+description: Hel dokumintiyada ku saabsan isticmaalka daroogada ee kubada cagta.
+
+query_id: C008
+title: Isdilka Pierre Bérégovoy
+description: Hel dokumintiyada isdilka ra’isal wasaarahii hore Pierre Bérégovoy.
+
+
+query_id: C009
+title: Dabaajiyada Gaaska gubta 
+description: Goobahee oo caalamka oo dhan ayaa leh dabaajiyada gaaska gubta taas oo loo badeli karo isticmaalka tamarta?
+
+query_id: C010
+title: Dagaalka iyo Raadiyowga
+description: Doorkee ayay raadiyaasha ciyaaraan inta lagu jiro gadaalka iyo qilaafka?
+
+query_id: C011 
+title: Dastuurka Cusub ee Koonfur Afrika
+description: Hel waraqaaha ka hadlayo dastuurka cusub ee Koonfur Afrika iyo qaabkiisa ugu dambeeyo.
+
+query_id: C012
+title: Solar Temple
+description: Hel dokumintiyada Amarka Solar Temple iyo dilka iyo/ama isdilka xubnahooda.
+
+query_id: C013
+title: Shirka Xakameynta Dhalmada
+description: Maxay ahaayeen wadahadalada iyo xalalka Shirka Dadka Caalamka ee xakameynta dhalmada ee Cairo?
+
+query_id: C014              
+title: Dalxiiska Mareykanka. 
+description: Wadamadee, aan ka aheyn Canada, ayaa soo dirayo tirooyin badan ee dalxiiska Mareykanka, iyo waxa ay yihiin mabaad’ida goobaha dalxiisyadaan?
+
+query_id: C015
+title: Tartamada Warshada Yurub
+description: Waa maxay xaqiiqaha waxyeelo tartamada warshada Yurub ee suuqyada caalamka?
+
+query_id: C016
+title: Machadka Faransiiska
+description: Hel dokumintiyada Machadka Faransiiska.
+
+query_id: C017
+title: Riix Dabka U dhow Sydney
+description: Maxay aheyd baaxada riixida dabka oo u dhow Sydney iyo sida halista ee ay aheyd xaalada?
+
+query_id: C018 
+title: Qasaaraha Dab daminta 
+description: Hel dokumintiyada ka hadlaan dhaawacyada dadka ka qeybgalo dab daminta.
+
+query_id: C019
+title: Jirooyinka Ciidamada 
+description: Hel dokumintiyada ka hadlaan jirooyinka Ciidamada.
+
+query_id: C020
+title: Lacagta Halka ee Yurubiyaanka
+description: Waa maxay faa’idooyinka iyo qasaaraha lacagta halka ah ee Yurubiyaanka?
+
+query_id: C021
+title: Aaga Dhaqaalaha Yurubiyaanka
+description: Hel dokumintiyada ku saabsan Aaga Dhaqaalaha Yurubiyaanka (EEA).
+
+query_id: C022
+title: Shilalka Orodka Diyaarada 
+description: Dhacdooyinka aqoonsiga halka shilalka diyaarada uga dhacaan orodka inta algu jiro howlgalada duulimaadka.
+
+query_id: C023
+title: Uurka Caadada joogsatay
+description: Gudaha 1994, naag caadada joojisay oo talyaani ah ayaa dhashay will, taas oo noqotay naagta ugu waayeelsan caalamka ee dhashay. Muxuu ahaa magaceeda oo imisa sanno ayay jirtay?
+ 
+query_id: C024 
+title: Hay’ada Ganacsiga Caalamka 
+description: Waa maxay aragtiyada Mareykanka ee la xiriirto GATT/Hay'ada Ganacsiga Caalamka?
+
+query_id: C025
+title: Masuqmaasuqa Talyaaniga          
+description: Ra’isalwasaarahee hore ee Talyaani ah ayaa loo maxbuusay eedeynta ogolaanshaha laaluush?
+                 
+
+query_id: C026
+title: Isticmaalka Awooda Dabeysha 
+description: Sheeg tusaalaha isticmaalka awooda dabeysha
+
+query_id: C027
+title: Isdhaxgalka Muhaajariinta Jarmalka
+description: Maxay muhaajarad Jarmalka dambe ugu arkeen isdhaxgalada mid adag?
+
+query_id: C028
+title: Barida Farsamooyinka ee Ardayda aan Ingiriiska ku hadlin 
+description: Farsamooyinkee ayaa laga isticmaalaa dugsiyada Mareykanka si ay u baraan ardayda luuqadooda asalka ah aan aheyn Ingiriis?
+
+query_id: C029
+title: Abaalmarinta Shaqooyinka caalamiga ah
+description: Yaa ku guuleystay Abaalmarinta Shaqooyinka caalamiga ah ee 1994 iyo aragtidee?
+
+query_id: C030
+title: Saqafka Dukaanka weyn ee dumitaanka Nice
+description:  Maxaa sababay dukaanka weyn ee Nice inuu god noqdo oo maxay aheyd cawaaqiibta?
+
+query_id: C031
+title: Illaalada Macmiilka ee EU
+description:  Hel wargelinada illaalada macmiilka ee Midowga Yurub.
+
+
+query_id: C032 
+title: Wadaadada Dumarka
+description: Hel dokumintiyada ee maneysiinta dumarka ee Kaniisadaha Yurubta. 
+
+query_id: C033
+title: Hidaha Kansarka
+description: Hel dokumintiyada ka hadlayo ogaanshooyinka hadeer ee xiriirka u dhaxeeyo hidaha iyo kansarka.
+
+query_id: C034 
+title: Isticmaalka Qamriga ee Yurubta
+description: Hel dokumintiyada isticmaalka qamriga ee Yurubta.
+
+query_id: C035
+title: Yeyda Talyaaniga
+description: Halkee ayaa yeyda laga heli karaa gudaha Talyaaniga?
+      
+query_id: C036               
+title: Soo saarka Saliida Olive ee Mediterranean
+description: Imisa saliida olive ayaa lagu soo saaraa aaga Mediterranean?
+
+query_id: C037 
+title: Quusida Estonia
+description: Hel dokumintiyada sharaxayo quusida markabkii Estonia ee Badda Baltic iyo wargelinta baaritaanada socday.
+
+query_id: C038
+title: Soo celintii Haraayadii Milatariga 
+description: Aqoonsiga xaaladaha haraayada shaqaalaha milatariga dhintay oo loo celiyay gurigooda.
+
+query_id: C039
+title: Baaritaanada Bariga Yurub ama Raashiyada 
+description: Aqoonsiga shirkadaha sameynayo ama sameeyay maalgashiyada Yurubta Bari ama Raashiyada ee xigay kala go’a USSR-kii hore. 
+
+﻿query_id: C040
+title: Wareejinta Wadada dareenka Jarmalka
+description: Hel waraaqaha wareejinta ee wadooyinka tareenka Jarmalka.
+
+
+query_id: C041 
+title: Sunta cayayaanka ee Cuntada Ilmaha 
+description: Hel wargelinada sunta cayayaanka ee cuntada ilmaha. 
+
+
+
+
+query_id: C042 
+title: Duulaanka Hayte ee U.N./US 
+description: Hel waraaqaha dullaanka Hayte ee U.N./US
+ciidamada. 
+
+
+
+query_id: C043 
+title: Cimilada xun iyo Cimilada 
+description: Hel wargelinada sharaxayo "El Niño" xaqiiqda iyo
+dhibaatooyinka cimilada caalamka (oo ay ku jiraan saameynada
+heer kululka, cadaadiska hawada, roob da’da, iwm.). 
+
+
+
+
+query_id: C044 
+title: Indurain ayaa ku Guuleystay Dalxiiska 
+description: Falcelinada ee Dalxiiska afaraad ee de France waxaa ku guuleystay Miguel
+Indurain. 
+
+
+query_id: C045 
+title: Heshiiska Nabada Israel/Jordan 
+description: Hel wargelinada xigamneyso magacyada djexdhaxaadiyaha guud ee
+heshiiska nabada Bariga Dhexe ee u dhaxeeyo Israel iyo Jordan iyo sidoo kale
+waraaqo bixinayo warbixin sharaxan ee heshiiska. 
+
+
+
+
+query_id: C046 
+title: Cuno qabateynka Iraq 
+description: Saameynadee ayay ku yeelatay cunu qabateynka U.N. nololaha
+dadka reer Iraaqi? 
+
+
+
+
+query_id: C047 
+title: Duulaanka Ruushka ee Chechnya 
+description: Waa maxay sababaha duulaanka milatariga ee 
+Ruushka ee Chechnya? 
+
+
+
+
+query_id: C048 
+title: Ciidamada Nabad Illaalinta ee Bosnia 
+description: Sababaha ka laabashada ciidamada nabad illaalinta
+Qaramada Midoobay (UN) ee ka socdo Bosnia. 
+
+
+
+query_id: C049 
+title: Hoos u dhaca Dhoofinta Baabuurta Jabaaneeska 
+description: Waraaqaha waxay soo wargelineysaa hoos u dhaca baabuurta ay soo dhoofiyeen
+Japan. 
+
+
+
+query_id: C050 
+title: Kacdoonka Chiapas 
+description: Hel wargelinada kacdoonka Hindida ee Chiapas
+(Mexico). 
+
+
+
+query_id: C051 
+title: Horyaalka Kubada cagta Caalamka 
+description: Hel waraaqaha soo wargelinayo ciyaarta ugu dambeyso ee caalamka
+horyaalka kubada cagta ee 1994. 
+
+
+query_id: C052 
+title: Hoos u dhaca Lacagta Shiineeska 
+description: Hel waraaqaha sharaxayo sababaha oo saameyso
+hoos u dhaca lacagta Shiineeska. 
+
+
+query_id: C053 
+title: Hiddaha iyo Cudurada 
+description: Waxa hiddaha loo aqoonsaday in illaha ama
+ku deeq sababta cudurada ama cudurada hormarka ee
+aadanaha? 
+
+
+
+query_id: C054 
+title: Natiijooyinka Afarta Ugu dambeyso 
+description: Hel waraaqaha ku siinayo natiijooyinka Yurubiyaanka
+Kubada koleyga Afarta Ugu dambeyso. 
+
+
+
+query_id: C055 
+title: Barnaamijka Swiss ee Alps  
+description: Hel waraaqaha wargeliyo Barnaamijka Swiss ee loogu tallogalay
+nidaaminta baabuurta oo dhinaca Alps. 
+
+
+
+
+
+query_id: C056 
+title: Ololoyaasha Yurubiyaanka ee ka soo horjeedo Takoorida 
+description: Hel waraaqaha ka hadlaan ololayaasha ka soo horjeedo takoorida ee
+Yurub. 
+
+
+
+query_id: C057 
+title: Ijaabada Cuntada Sumeysan 
+description: Hel dhammaan warbixinta ku saabsan tijaabooyinka cuntada sumeysan ee
+Faransiiska oo ay ku jiraan jumlooyinka ay bixiyeen maxkamada iyo magacyada
+dadka u arkeen dambi. 
+
+
+
+query_id: C058 
+title: Dilka xanuun la’aanta ah 
+description: Waraaqaha waxay sharaxayaan dhacdooyinka dilka xanuun la’aanta ah ee la fahmay
+sida "ku dhimashada sharafta" ama "xaquuqda lagu dhimanayo". 
+
+
+query_id: C059 
+title: Fayrusyada Kumbuyuutarka 
+description: Hel waraaqaha ku saabsan faayrusyada kumbuyuutarka. 
+
+
+
+query_id: C060 
+title: Masuqmaasuqa Siyaasiyiinta Faransiiska 
+description: Hel waraaqaha masuqmaasuqa ee siyaasiyiinta ku nool Faransiiska, ee
+gaar ahaan tixraaca dhaqaalaha sharci darada ah ee Faransiiska
+xisbiyada siyaasadeed. 
+
+
+query_id: C061 
+title: Masiibada Saliida Saybeeriyaan 
+description: Hel warbixinta dilaaca tuubada saliida ee
+Saybeeriya. 
+
+
+
+query_id: C062 
+title: Dhulgariirka Wuqooyiga Jabaanka 
+description: Hel waraaqaha soo wargeliyaa dhul gariirka bariga
+xeebta Hokkaido, wuqooyiga Jabaanka, ee 1994. 
+
+
+query_id: C063 
+title: Keydka Nibiriga 
+description: Hel waraaqaha ku saabsan keydka Antarctic ee
+ogaarsiga nibiriga mamnuuc ka yahay. 
+
+
+query_id: C064 
+title: Mooska Kumbuyuutarka RSI 
+description: Hel waraaqaha soo wargeliyaa ku celinta mooska kumbuyuutarka
+dhaawacyada daran (RSI). 
+
+
+
+query_id: C065 
+title: Ugaarsiga keydka maaliyada 
+description: Hel waraaqaha ku saabsan ugaarsatadayaasha keydka maaliyada iyo ugaarsiga maaliyada
+xirfadlaha. 
+
+query_id: C066 
+title: Kala laabashada Raashiyaanka ee ka socdo Latfiya 
+description: Hel wargelinada iyo wadahadalada ku saabsan kala laabashada
+Ciidamada Raashiyaanka ee Latfiya. 
+
+
+query_id: C067 
+title: Isku dhacyada Markabka 
+description: Hel warbixinta tirada dadka dhaawacmay ama dhintay
+isku dhacyada u dhaxeeyo maraakiibta. 
+
+
+
+query_id: C068 
+title: Weerarada Kaniisada Yahuuda ee Yurubiyaanka 
+description: Hel waraaqaha sharaxo falalka argagaxisada ama burburinta
+ka soo horjeedo Kaniisada yahuuda Yurubiyaanka maadaama ay tahay dhammaadka Dagaalka Labaad
+Dagaalka. 
+
+
+query_id: C069 
+title: Isku xirka iyo Anshaxa 
+description: Waa maxay isticmaalada wax ku oolka ah ee isku xirka, oo waa maxay
+muranka anshaxa ee iyada ka soo horjeedo? 
+
+
+query_id: C070 
+title: Dhimashada Kim Il Sung 
+description: Hel waraaqaha bixinayo warbixinta taariiq nololeedka Kim Il
+Sung, madaxweynaha North Korea, oo dhintay 1994. 
+
+
+
+query_id: C071 
+title: Qudaarta, Miraha iyo Kansarka 
+description: Hel waaraqaha la xiriiro cunista qudaarta iyo
+miraha ee kansarka. 
+
+
+
+
+query_id: C072 
+title: Shirka G7 ee Naples 
+description: Doorkee ayay ka ciyaareen Raashiyaanka kulanka G7 ee ka dhacay Naples
+ee 1994? 
+
+
+query_id: C073 
+title: Aftida Norweeyaanka ee EU 
+description: Maxay ahaayeen falcelinada inta ka hartay Yurub ee ku aadan
+natiijooyinka xun ee aftida Norweeyaanka ee Norweey ka go’aansatay
+si ku aadan xubinnimada Midowga Yurub (EU). 
+
+
+query_id: C074 
+title: Caleemo saarka Tuneelka Kanaalka 
+description: Hel waraaqaha sharaxayo aftida Kanaalka
+Tuunelka iyo magacaabida wakiilada qaranka ee Ingiriiska iyo Faransiiska
+hadeer xafladaan. 
+
+
+query_id: C075 
+title: Xasuuqii Maxkamada Euskirchen 
+description: Hel waraaqaha ee xasuuqa aqalka maxkamada ee Euskirchen,
+Jarmalka, taas oo 7 qof ku dhinteen. 
+
+
+
+query_id: C076 
+title: Tamarta Qoraxda 
+description: Codsiyadee ayaa ah tamarta soolarka ee la isticmaalay ama
+loo tixgeliyay isticmaalka mustaqbalka? 
+
+
+query_id: C077 
+title: Isdilka Dhaliinta 
+description: Warbixintee ayaa la heli karaa ee la xiriirto isdilka
+dhalaanka? 
+
+
+
+query_id: C078 
+title: Feestada Filimka Venice 
+description: Filimkee ama filimaantee ayaa ku guuleystay Golden Lion ee Venice-ki 51aad
+Feestada Filimka ee gudaha Sebteembar 1994? 
+
+query_id: C079 
+title: Baaritaanka Booska Ulysses 
+description: Hel waraaqaha sharaxo baaritaanka booska Yurubiyaanka
+howlgalka Ulysses ama ka hadlida ujeedooyinkooda. 
+
+
+
+query_id: C080 
+title: Diidmada Cuntada 
+description: Waraaqaha waxay soo wargelinayaan warbixin walba ee la xiriirto gaajada
+diidmada la iskudayay si markaas u soo jiidato dareenka sababta. 
+
+query_id: C081 
+title: Afduubida Diyaarada Faransiiska 
+description: Hel dhammaan warbixinta la xiriirto doorka kooxda
+hubeysan ee Islaamka ee ku jiray afduubida Diyaarada Faransiiska. 
+
+
+query_id: C082 
+title: Weerarada IRA ee Garoomada 
+description: Hel waraaqaha ee sharaxo falalka argagaxisada ee dhinaca Ayrishka
+Ururka Ciidanka Milatariga (IRA) ee garoomada Yurubiyaanka. 
+
+
+
+query_id: C083 
+title: Xaraashka Sheeyada dhacdada Lennon 
+description: Hel xaraashyada bulshada  ee Sheeyada dhacdada John Lennon 
+
+
+query_id: C084 
+title: Weerarada Libaax badeeda 
+description: Waraaqaha waxay soo wargelinayaan warbixin walba ee la xiriirto libaax badeedka
+weerada aadanaha. 
+
+
+
+query_id: C085 
+title: Barnaamijka Turquoise ee Rwanda 
+description: Hel warbixin sharaxan ee howlgalka "Turquoise", 
+Barnaamijka bani’aadannimada Faransiiska ee Rwanda. 
+
+
+query_id: C086 
+title: Korontada La cusbooneysiin karo 
+description: Hel waraaqaha sharaxayo isticmaalka ama xeerarka la xiriiro
+korontada "cagaarka", tusaale ahaan, korontada laga soo saaro illaha tamarta
+la cusbooneysiin karo. 
+
+
+query_id: C087 
+title: Sicir bararka iyo Doorashada Baraasiil 
+description: Hel waraaqaha falanqeynayo saameynta doorashooyinka
+Baraaziil ee "Dhab ahaan u Qorshey" si ka soo horjeedo sicir bararka. 
+
+
+query_id: C088 
+title: Cudurkqa Lo'da ee Yurub 
+description: Hel waraaqaha tixraacayo dacwadaha Cudurka Maskaxda
+Lo’da (Cudurka Lo'da) ee Yurubta. 
+
+
+
+query_id: C089 
+title: Wax beelida Schneider 
+description: Hel waraaqaha ee wax beelida hantida Jarmalka
+Maalgeliyaha Jürgen Schneider. 
+
+
+query_id: C090 
+title: Dhoofiyayaasha Qudaarta 
+description: Wadamadee ayaa ah dhoofiyayaasha qudaarta cusub, qalalan ama
+barafeysan? 
+
+
+
+query_id: C091 
+title: AI ee Laatiin Ameerikada 
+description: Wargelinada Hay'ada Xaquuqul insanka Caalamiga ee xaquuqda aadanaha ee Laatiin Ameerikada. 
+
+
+
+query_id: C092  
+title: Cunaqabateynta Qaramada Midoobey ee Ciraaq  
+description: Qiyaasahee ayay Ciraaq qaaday si ay u saameyso ka qaadista xanibaadaha dhaqaalaha Qaramada Midoobay iyo cunaqabateynada siyaasadeed ee lagu soo rogo kadib qabsigoodii Kuwait ee 1990? 
+
+
+query_id: C093 
+title: Eurofighter 
+description: Hel dokumintiyada soo wargeliyo wax ku saabsan EFA ama mashruuca "Eurofighter". 
+
+
+
+query_id: C094 
+title: Soo noqodka Solzhenitsyn 
+description: Hel dokumintiyada soo wargeliyo wax ku saabsan soo noqodka ku guuleystihii abaalmarinta Shaqooyinka caalamiga ah oo suugaanta Solzhenitsyn ee Russia. 
+
+
+query_id: C095 
+title: Qilaafka Falastiinta 
+description: Hel qoraalada la macaamilayo qilaafaha hubeysan ee dhulalka Falastiin iyo ka qeybgalka qeybta dadka rayidka. 
+
+
+query_id: C096 
+title: Haddii González is casilo? 
+description: Codsiyada bulshada ee shaqsiyaadka siyaasadeed ee Isbeyn oo
+Felippe González oo iska casilayo 
+
+
+
+query_id: C097 
+title: Aftida madax banaanida Moldova 
+description: Hel dokumintiyada, wargeliyaa wax ku saabsan aftida madaxbanaanida Jamhuuriyada Moldova. 
+
+
+
+query_id: C098  
+title: Filmida ka imaanayo Kaurismäkis. 
+description: Raadinta warbixinta ku saabsan filmida oo ay jaheeyeen midkood labada walaal Aki iyo Mika Kaurismäki. 
+
+
+
+query_id: C099 
+title: Diidmada Holocaust 
+description: Hel dokumintiyada la macaamilayo qiyaasaha Jarmalka oo lagu xadeynayo tallaabooyinka Shoah. 
+
+
+
+query_id: C100  
+title: Dacwada sirdoonka Ames 
+description: Hel dokumintiyada muujiyaa saameynta dacwada sirdoonka Ames ee xiriirada Raashiyaanka Mareykanka. 
+
+
+
+query_id: C101 
+title: Cyprus iyo Yurubiyaanka 
+description: Miyuu Cyprus noqdaa xubinta Yurubiyaanka? 
+
+
+query_id: C102 
+title: Guulaha Alberto Tomba 
+description: Hel dokumintiyada wargeliyaa tartamada cirka ee ku guuleystay Alberto Tomba. 
+
+
+query_id: C103 
+title: Qilaafka xiisaha Talyaaniga 
+description: Hel dokumintiyada ka hadlo dhibaatada qilaafka xiisabaha ra’isalwasaaraha Talyaaniga, Silvio Berlusconi. 
+
+
+
+query_id: C104 
+title: Billada Dahabka Super G  
+description: Yaa ku guuleystay billada dahabka ee super G ee Lillehammer oo Ciyaaraha Qaboobaha Olambikada 1994? 
+
+
+query_id: C105 
+title: Neefta burukiintada 
+description: Hel dokumintiyada ka hadlaan neefta burukiintada iyo ogaanshaha hadeer ee caafimaadka la xiriiro cudurada neefta. 
+
+
+query_id: C106 
+title: Warshada gaariga Yurubiyaanka 
+description: Hel dokumintiyada soo wargeliyo wax ku saabsan xaalada warshada gaariga Yurubiyaanka ee la xiriiro dhacitaanka iibsayada (masiibooyinka iibsayada) iyo qiyaasaha xisaabinta suurtogalka ah. 
+
+
+
+query_id: C107 
+title: Injineernimada Jinsiga 
+description: Sidee ayuu injineernimada hidaha u saameeyaa silsilada cuntada aadanaha? 
+
+query_id: C108 
+title: Kala’go’a Yemanta Kuunfureed 
+description: Waa maxay cawaaqiibaha bulshada iyo dhaqaalaha ee ku dhawaaqida ka go’itaanka Yemanta Kuunfureed? 
+
+
+
+
+query_id: C109  
+title: Amniga Kumbuyuutarka  
+description: Waa maxay heerka amniga kumbuyuutarka ee la xiriiro shabakada la galay? 
+
+
+query_id: C110 
+title: Musaafurinta Kuwa laga shakiyay ee Iraaniyiinta 
+description: Faransiiska waxay u eriday Tehran labo Iraaniyiin ah oo looga shakiyay inay ku dileen Kazem Radjavi gudaha Switzerland. 
+
+query_id: C111 
+title: Ku sawirista Kumbuyuutarka 
+description: Hel wadahadalada saameynta ku sawirista kumbuyuutarka ee warshada filmaanta. 
+
+
+query_id: C112 
+title: Pulp Fiction 
+description: Qiimahee ayuu filimka Pulp Fiction ee Quentin Tarantino ugu guuleystay Feestada Cannes Film. 
+
+
+
+query_id: C113 
+title: Koobka Yurubiyaanka 
+description: Hel dokumintiyada la xiriiro heerarka koowaad iyo arimaha kale ee diyaarinta la xiriirto 1996 Koobka Kubada cagta Yurubiyaanka. 
+
+
+
+query_id: C114 
+title: Dagaalka sukeeye ee Afgaanistaan 
+description: Hel dokumintiyada sharaxayo xaalada siyaasadeed ee Afgaanistaan ee u hogaamiyay dagaalada sukeeye kadib markii laga tuuray hogaankii shuuciga Najibullah. 
+
+
+ 
+query_id: C115  
+title: Tirikoobka Furiinka  
+description: Bixi tirikoobka furitaanka oo wadamo kala duwan. 
+
+
+
+query_id: C116 
+title: Gaariga lugaha barafka 
+description: Hel dokumintiyada ka hadlo hordhaca ciyaarta qaboobaha cusub: Gaariga lugaha barafka. 
+
+
+query_id: C117 
+title: Doorashooyinka Baarlamaanka Yurubiyaanka 
+description: Imisa codeeyayaal ayaa looga waco goobaha doorashooyinka si loo doorto baarlamaanka Yurubiyaanka cusub ee 1994? 
+
+
+
+query_id: C118 
+title: Guddoomiyaha koowaad ee Midowga Yurubiyaanka ee Finland. 
+description: Sidee loo doortay sida guddoomiyaha koowaad oo Finland ah Midowga Yurubta? 
+
+
+query_id: C119 
+title: Burburinta hubabka nukleerka Yukreen 
+description: Hel dokumintiyada wargeliyaa heshiiska u dhaxeeyo Ukraine, Raashiya iyo Mareykanka ee ka saarida iyo burburinta hubabka nukleerka Yurkreen ka hor Juun 1996. 
+
+
+query_id: C120 
+title: Edouard Balladur 
+description: Waa maxay muhiimada Midowga Yurub ee xeerarka dhaqaalaha ee Edouard Balladur? 
+
+
+
+query_id: C121 
+title: Guulaha Ayrton Senna 
+description: Bixi diiwaanka guulaha ciyaaraha tartanka darawalka Baraasiiliyaanka gaariga ee Ayrton Senna. 
+
+
+
+query_id: C122 
+title: Warshada gaariga Ameerikada wuqooyi 
+description: Hel dokumintiyada ka hadlayo dadaalada warshada baabuurta ee Ameerikada Wuqooyi si sare loogu qaado iibinadooda oo labada suuqyada gudaha iyo caalamiga. 
+
+
+
+query_id: C123 
+title: Guurka Jackson-Presley 
+description: Hel dokumintiyada wargeliyaa guurkii loo qiyaasay Michael Jackson ee Lisa Marie Presley ama kala tagoodii. 
+
+
+
+query_id: C124 
+title: Xeerka caadiga ah ee ajaanibta iyo amniga (CFSP) 
+description: Hel warbixinta xasilinta xeerka ajaanibta caadiga ah ee Midowga Yurub iyo amniga. 
+
+
+
+query_id: C125 
+title: Lacagta halka ee Yurbiyaanka  
+description: Waa maxay jadwalka loo saadaaliyay lacagta halka ee Yurubiyaanka? 
+
+
+query_id: C126 
+title: Tallaabooyinka ka soo horjeedo warshada dufta. 
+description: Hel warbixinta mudaaharaadka ama falalka rabshada ee ka soo horjeedo warshada dufta. 
+
+
+
+query_id: C127 
+title: Baxsiga Roldán  
+description: Baxsiga iyo duulimaadka agaasimaha hore ee Illaaliyaha Rayidka Isbaanish ee agaasimahii hore Luis Roldán 
+
+
+
+query_id: C128 
+title: Galmada ee Xayeysiimaha ku jiro 
+description: Hel maqaalada la macaamilayo xayeysiinta indhaha qabata, galmo ahaan loo qaabeeyay, iyo cawaabiiha bulshada. 
+
+
+query_id: C129 
+title: 100 bilyan oo xidigo ayaa l ogaaday 
+description: Cilmigee farsamada ayaa hormari karo oo u ogolaanayo ogaanshaha loo ogolaan karo tiro sareyso oo xidigo ah ama xidigaha halka meel 1994. 
+
+
+query_id: C130 
+title: Dhimashada hogaanka Nirvana 
+description: Sidee ayuu hogaanka heesaha ee rogga American iyo kooxda kooxda rogga, Nirvana, u dhintay? 
+
+
+
+query_id: C131 
+title: Xaquuqda Hantida Aqoonyahanka 
+description: Hel warbixinta xaquuqaha hormariyayaasha hantida aqoonyahanka iyo dadaalada ee wadamada bixinayo illaalada hormariyayaasha. 
+
+
+
+query_id: C132 
+title: Aaga Kaliningrad 
+description: Hel dokumintiyada ka hadlayo mustaqbalka siyaasada iyo dhaqaalaha ee Kaliningrad Exclave. 
+
+
+query_id: C133 
+title: Dagaalada Aaga Ciidamada Hubeysan 
+description: Hel dokumintiyada wargeliyaa go’aamada siyaasada iyo garsoorka ee aaga ka baxsan Ciidamada Hubeysan ee Jarmalka. 
+
+
+
+query_id: C134 
+title: Baaritaanka hawada Clementine 
+description: Hel wargelinada baaritaanka hawada Ameerika ee Clementine, loo bilaabay inay aruuriso xog ku saabsan bisha iyo qeybta Dhulka u dhow 1620 Qeybaha dhulka. 
+
+
+query_id: C135 
+title: Musharaxiinta madaxweynaha EC  
+description: Yaa loo sheegay sida musharaxa noqonayo Guddoomiyaha Yurubta? 
+
+
+
+query_id: C136 
+title: Barashada Taalada Pisa 
+description: Waa maxay xaalada caafimaadka Barashada Taalada Pisa? 
+
+
+
+query_id: C137 
+title: Tartamada Quruxda Caalamiga ah 
+description: Hel magacyada guuleystayaasha tartamada quruxda caalamiga ah ee 1994 ama 1995. 
+
+
+query_id: C138 
+title: Erayada ajaanibka oo af Faransiis ah 
+description: Hel dukumintiyada la macaamilayo doorka erayada ajaanibta oo af Faransiis ah. 
+
+
+query_id: C139 
+title: Soo xigashooyinka kaluumeysiga Midwoga Yurub 
+description: Hel warbixin ku saabsan xigashada kaluumeysiga ee Midowga Yurub. 
+
+
+
+
+query_id: C140 
+title: Mobeelada 
+description: Rajooyinka isticmaalka mobeelada. 
+
+
+query_id: C141 
+title: Warqada Bomb ee Kiesbauer 
+description: Hel warbixinta qaraxa warqada bomb ee istuudiyaha kanaalka telefishanka  bandhigaha PRO7 ee Arabella Kiesbauer. 
+
+
+query_id: C142 
+title: Duubitaanka Christo ee German Reichstag 
+description: Hel warbixinta duubitaanka German Reichstag ee Berlin oo farshaxanka Christo. 
+
+
+query_id: C143 
+title: Shirka Dumarka ee Beijing 
+description: Boosaska muranka oo tirada wafdiyada loogu tallogalay Shirka Dumarka ee Beijing wuxuu halis geliyay guuldaro. 
+
+
+query_id: C144 
+title: Falaagada Sierra Leone iyo Dhaymonada 
+description: Maxay aheyd saameynada falaagooyinka iyo xasili darada siyaasada kale ee warshada dhaymonka Sierra Leone? 
+
+
+query_id: C145 
+title: Soo gelinta Bariiska Jabaaneeska 
+description: Hel dokumintiyada ka hadlayo sababaha iyo cawaaqiibaha bariiskii markii koowaad la soo geliyay Jabaan. 
+
+
+
+query_id: C146 
+title: Cuntada ugu Horeyso Jabaan 
+description: Maxay silsiladaha Ameerikada Wuqooyi cuntooyinkeeda ugu horeeya ay ugu leeyihiin tiro badan ee maqaayadaha shirkadaha gudaha Jabaan? 
+
+
+query_id: C147 
+title: Shilalka Saliida iyo Shimbiraha 
+description: Hel dokumintiyada sharaxayo waxyeelada ama dhaawaca ee shimbiraha sababay shilalka daadashada saliida ama wasaqeynta. 
+
+
+query_id: C148 
+title: Waxyeelooyinka ee Ozone Layer 
+description: Godadkee ku jiro fadhiga ozone ayaan saameyn wasaqeynta? 
+
+query_id: C149 
+title: Booqashada Boobka ee Sri Lanka 
+description: Hel wargelinada mudaaharaadyada ama dhibaatooyinka ay sababeen ku dhawaaqida la soo dhaafay ee Boobka oo ku saabsan Buddhisim inta lagu jiray booqashadiisa ee Sri Lanka. 
+
+
+query_id: C150 
+title: AI ka soo horjeedo Ciqaabta Dilka 
+description: Hel wargelinada tallaabooyinka gaarka ah ee Hay'ada Xaquuqul insanka Caalamiga ee ka soo horjeedo ciqaabta dilka. 
+
+
+query_id: C151 
+title: La yaabyada Caalamkii Hore 
+description: Fiiri warbixinta jiritaanka iyo/ama ogaanshaha haraayada todoba layaab oo caalamkii hore. 
+
+
+query_id: C152 
+title: Xaquuqda Carruurta 
+description: Hel warbixinta Hesiishka Qaramada Midoobay ee Xaquuqaha Carruurta. 
+
+
+query_id: C153 
+title: ciyaaraha Olombikada iyo Nabada 
+description: Hel dokumintiyada soo wargeliyaa sida Ciyaaraha Olombikada ay ugu deeqi karaan nabada caalamka. 
+
+
+
+query_id: C154 
+title: Hadal Xor ah oo Intarneetka 
+description: Hel dokumintiyada ka hadlo dareenka iyo xoriyada hadalka ee intarneetka. 
+
+
+query_id: C155 
+title: Halisaha Mobeelada 
+description: Halisahee iyo qataradee ayaa la jiro isticmaalka kordhay ee mobeelada? 
+
+
+query_id: C156 
+title: Ururada Ganacsiga ee Yurub 
+description: Waa maxay kala duwanaanshaha doorka iyo muhiimada ururada ganacsiga ee u dhaxeeyo wadamada Yurubta? 
+
+
+query_id: C157 
+title: Guuleystayaasha Wimbledon Lady 
+description: Isii magacyada guuleystayaal walba ee tartanka gabdhaha Wimbledon. 
+
+
+query_id: C158 
+title: Rabshadaha Kubada cagta ee Dublin 
+description: Hel wargelinada joojinta tartanka kubada cagta caalamiga ah ee u dhaxeeyo Ireland iyo England ee Dublin rabshada kadib. 
+
+
+query_id: C159 
+title: Deegaanka Saliida Badda Wuqooyiga 
+description: Tallaabooyinkee ayaa la qaaday si loo illaaliyo deegaanka la siiyay korodhka sahminta saliida iyo soo saarka ee Badda Wuqooyiga? 
+
+
+query_id: C160 
+title: Isticmaalka Soo saarka Iskootishka 
+description: Dokumintiyada waxay ka hadlayaan tirada alkulada iskootishka ay ka isticmaalaan dadka Iskootiska ee tirada aalkulada iskootiska ee laga dhoofiyo Scotland. 
+
+
+query_id: C161 
+title: Cuntada Barruurta 
+description: Hel wargelinada ka hadlayo dhibaatooyinka cuntada barruurta? 
+
+
+query_id: C162 
+title: Midwoga Yurub iyo Canshuurta Taskishka 
+description: Hel dokumintiyada ku saabsan dhibaatooyinka ay keeneen Greece ee la xiriiro baabi’inta canshuurta u dhaxeyso Midowga Yurub iyo Turkiga. 
+
+
+query_id: C163 
+title: Xadeynada Sigaar cabida 
+description: Hel dokumintiyada ku saabsan xeerarka ama sharciyada loogu tallogalay inay mamnuucaan ama xadeeyaan sigaar ku cabista maqaayadaha. 
+
+
+query_id: C164 
+title: Xukumista Daroogada Yurbiyaanka 
+description: Xukmadee ayaa laga siiyaa Yurub oo ka ganacsiga sharci darada ee daroogada? 
+
+query_id: C165 
+title: Golden Globes 1994 
+description: Filimkee ayaa ku guuleystay Golden Globe oo musalsalka xiliga 1994? 
+
+
+query_id: C166 
+title: Aaga Amniga French General iyo Balkan 
+description: Yuu ahaa masuulka French General ee hal abuurka aaga amniga intii lagu jiray qilaafka Balkan? 
+
+
+query_id: C167 
+title: Xiriirada China-Mongolia 
+description: Hel warbixinta xiriirada hadeer iyo heshiisyada iskaashiga u dhaxeeyo Shiinaha iyo Mongolia. 
+
+
+query_id: C168 
+title: Dilkii Rabin 
+description: Yaa toogtay Yitzhak Rabin iyo sababtee? 
+
+
+query_id: C169 
+title: Imaanshaha CD-Burner 
+description: Hel dokumintiyada ku saabsan gubaha-CD iyo falcelinada warshada maqalka. 
+
+
+query_id: C170 
+title: Luuqadaha Midowga Yurub ee Rasmiga ah 
+description: Hel dokumintiyada ku saabsan diyaaradaha Faransiiska oo yareeyo tirada luuqadaha rasmiga ee Midwoga Yurubta oo shan luuqadood ah. 
+
+
+query_id: C171 
+title: Faynalka Kubada Barafka ee Lillehamme 
+description: Kooxyadee ayaa ku ciyaaray faynalka kubada barafka ee ciyaaraha Olombikada 1994 ee Lillehammer? 
+
+
+
+query_id: C172 
+title: Diiwaanada Ciyaaraha Caalamka 1995 
+description: Diiwaanadee caalamka ee cusub ayaa la gaaray inta lagu jiray horyaalada ciyaaraha caalamka ee Gothenburg? 
+
+
+query_id: C173 
+title: Cadeynta Tirooyinka Kore 
+description: Hel wargelinada cadeynta tijaabada ee tirooyinka kore ee cilmi baarayaasha Mareykanka. 
+
+
+query_id: C174 
+title: Muranka Aastaanta sadex geesks Bavarian 
+description: Hel wargelinada aastaanta sadex geeska ee dugsiyada Bavarian. 
+
+
+query_id: C175 
+title: Waxyeelada Deegaanka Dhulka Cowska 
+description: Hel wargelinada waxyeelada deegaanka ee Dhulka cowksa, tusaale ahaan ay sababeen warshadaha sonkorta Florida. 
+
+
+query_id: C176 
+title: Kabo sameeyaha-Levy iyo Meeraha shannaad 
+description: Hel wargelinada kala go’a dhagaxa xiddiga Shoemaker-Levy iyo saameyntiisa ee meeraha Shannaad. 
+
+
+query_id: C177 
+title: Isticmaalka Caanaha ee Yurub 
+description: Bixi tirikoobka ama warbiixnta la xiriirto isticmaalka caanaha ee wadamada Yurubta. 
+
+
+query_id: C178 
+title: Diidmada Adeega Milatariga 
+description: Hel dacwadaha dadka rabaan inay halis geliyaan cabsiyeyn badelkii sameynta adeega milatariga. 
+
+
+query_id: C179 
+title: Is casilka Xoghayaha Guud ee NATO 
+description: Maxaa loogu qasbay Xoghayaha Guud ee NATO inuu is casilo 1995? 
+
+
+query_id: C180 
+title: Wax beelida Barings 
+description: Maxay aheyd illaa iyo xad qasaaraha dacwada wax beelida Barings? 
+
+query_id: C181 
+title: Tijaabooyinka Nukleerka Faransiiska 
+description: Hel wargelinada cadaadiska caalamka oo lagu soo afjaro tijaabinta nukleerka Faransiiska. 
+
+
+query_id: C182 
+title: Sannad guuradii 50aad ee Imaanshaha Normandy 
+description: Hel wargelinada baarashuudka ee ciidamada dhinaca Sainte-Mère-Église inta lagu jiray dabaaldagyada sannad guurada shannaad ee imaanshaha Normandy. 
+
+
+query_id: C183 
+title: Haraayadii Danisoorka Aasiyada 
+description: Qeybahee Aasiya ayaa haraayada Danisoorka oo laga helay? 
+
+
+query_id: C184 
+title: Fasaxa Dhalmada ee Yurubta 
+description: Hel dokumintiyada siiyo warbixin bixinada la xiriiro baaxada fasaxa dhalmada ee Yurub Europe. 
+
+
+query_id: C185 
+title: Sawirada Dajka ee Srebrenica 
+description: Maxaa ku dhacay sawirada iyo filmada ee askarta Dajka ay ku sameeyeen Srebrenica kaas oo bixinayo cadeynta xad gudubka xaquuqda aadanaha? 
+
+
+query_id: C186 
+title: Dowlada Isbaheysiga Daj 
+description: Xisbiyadee siyaasadeed ayaa aasaasay isbaheysiga xukumayo, ee loo yaqaan armaajada babalka, ee Netherlands, gudaha 1994-1995? 
+
+query_id: C187 
+title: Gaadiidka Nugleerka ee Jarmalka 
+description: Hel wargelinada ee mudaaharaadyada ka soo horjeedo gaadiidka wasaqda nugleerka ee weelasha Castor ee Jarmalka. 
+
+
+query_id: C188 
+title: Hormarinta Daadashada Jarmalka 
+description: Hel dokumintiyada soo wargeliyaa hordhaca hormarinta daadashada oo luuqada Jarmalka. 
+
+
+query_id: C189 
+title: Godadka Hubble iyo Black 
+description: Maxay aheyd doorarka doobirka Hubble oo la cadeynayo jiritaanka godadka madow? 
+
+
+query_id: C190 
+title: Shaqada Carruurta ee Asia 
+description: Hel dokumintiyada ka hadlo shaqada carruurta ee Aasiyada iyo soo jeedinada lagu baabi’inayo ama sare loogu qaadayo xaaladaha shaqada carruurta. 
+
+
+query_id: C191 
+title: Beereysiga Ebro Delta 
+description: Maxay aheyd howsha beeraleyda ugu weyn ee Ebro Delta ee horaantii 1990s? 
+
+query_id: C192 
+title: Dilka Agaasimaha Talefishinka Raashiya 
+description: Muxuu ahaa magaca madaxa shirkada talefishinka Raashiya kaas oo lagu toogtay jaranjarada gurigiisa ee Moscow? 
+
+
+query_id: C193 
+title: Midowga Yurub iyo Wadamada Baltic 
+description: Hel dokumintiyada sheegayo wax ku saabsan wada xaajoodka u dhaxeeyo wadamada Baltic (Estonia, Latvia ama Lithuania) iyo Midowga Yurub ee la xiriiro xubinnimada EU. 
+
+
+
+query_id: C194 
+title: Qoyska Boqortooyada Talyaaniga 
+description: Hel warbixinta ka musaafurinta Talyaaniga ee xubnaha ragga ee Guriga Savoy. 
+
+
+query_id: C195 
+title: Weerarada ee Caawiyayaasha Duulimaadka Talyaaniga 
+description: Hel wargelinada carqaladeynta ama dhibaatooyinka ay sabebeen weerarada caawiyayaasha duulimaadka ee Talyaaniga. 
+
+
+query_id: C196 
+title: Mideynta Bangiyada Jabaaneeska 
+description: Hel wargelinada mideynta bangiyada Jabaaneeska Mitsubishi iyo Bangiga Tokyo ee ka dhigida bakgi weyn oo caalamka ah. 
+sheekada: Labada machadyada deynta Jabaanees bangiga Mitsubishi iyo Bagiga Tokyo waxay isku raaceen inay midoobaan. Bangiga cusub waa bangiga ugu balaaran caalamka. 
+
+
+
+query_id: C197 
+title: Heshiiska Nabada Dayton 
+description: Hel wargelinada heshiiska Dayton oo joogteynta nabada ee Bosnia-Herzegovina. 
+
+
+query_id: C198 
+title: Sharafeynta Oscar oo Agaasimayaasha Talyaaniga 
+description: Hel warbixinta agaasimayaasha filimka Talyaaniga ee lagu abaalmariyay Sharafeynta Oscar oo shaqada waqtiga nolosha. 
+
+
+query_id: C199 
+title: Cudurka Ebola ee Zaire 
+description: Hel wargelinada qiyaasaha ka hortaga la qaaday kadib dilaaca cudurka Ebola ee Zaire. 
+
+
+query_id: C200 
+title: Fatahaada Holland iyo Jarmalka 
+description: Hel tirikoobka masiibooyinka fatahaada ee Holland iyo Jarmalka 1995. 
+
+

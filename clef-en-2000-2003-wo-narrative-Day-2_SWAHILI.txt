@@ -1,0 +1,1021 @@
+﻿query_id: C001
+title: Usanifu majengo jijini Berlin
+description: Pata hati kuhusu usanifu majengo jijini Berlin. 
+
+
+query_id: C002
+title: Nadharia ya Electroweak
+description: Pata hati zinazo ripoti ugunduzi wa hivi majuzi katika uwanja wa fisikia ya subnyuklia unaothibitisha msingi wa nadharia jumuishi ya electroweak yake Weinberg-Salam-Glashow.
+
+query_id: C003 
+title: Dawa nchini Uholanzi
+description: Je, sera kuhusu dawa nchini Uholanzi ni gani?
+
+
+query_id: C004
+title: Mafuriko barani Ulaya
+description:Pata hati zinazotoa tarakimu ya gharama ya kiuchumi ya hasara kwenye kilimo iliyosababishwa na mafuriko barani Ulaya.
+
+
+query_id: C005
+title: Uanachama katika Umoja wa Uaya 
+description: Tambua mtazamo wa mataifa yasiyo wanacahama kuhusu kujiunga kwenye Jumuiya ya Ulaya au Umoja wa Ulaya
+
+query_id: C006
+title: Wafaransa Walio na Kibali cha Kutotumikia Jeshi
+description: Wafaransa walio na Kibali cha Kutotumikia Jeshi hupewa majukumu yepi wakati wakihudumia taifa?
+
+query_id: C007 
+title: Matumizi ya dawa za kulevya na kandanda
+description: Pata maelezo kuhusu matumizi ya dawa za kulevya katika kandanda.
+
+query_id: C008
+title: Kitanzi cha Pierre Bérégovoy
+description: Pata hati kuhusu kujitia kitanzi kwa aliyekuwa Waziri Mkuu wa Ufaransa Pierre Bérégovoy.
+
+
+query_id: C009
+title: Kupatikana kwa Methane 
+description: Maeneo yepi kote ulimwenguni yana gesi aina ya methane ambayo inaweza kugeuzwa katika matumizi nishati?
+
+query_id: C010
+title: Vita na Redio
+description: Je, redio huchukua nafasi gani wakati wa vita au mgogoro unaohusisha matumizi ya silaha?
+
+query_id: C011 
+title: Katiba Mpya kwa Afrika Kusini
+description: Pata hati zinazojadili katiba mpya ya Afrika Kusini na muundo wake wa mwisho.
+
+query_id: C012
+title: Hekalu ya Solar Temple
+description: Pata hati kuhusu Agizo la hekalu ya Solar Temple na kuuawa na/au kujitia kitanzi kwa washiriki wake.
+
+query_id: C013
+title: Kongamano kuhusu Kupanga Uzazi
+description: Je, mijadala na maazimio yepi yalipitishwa katika Kongamano la Watu Ulimwenguni kuhusu kupanga uzazi uliofanyika mjini Cairo? 
+
+query_id: C014              
+title: Utalii nchini Marekani. 
+description: Je, ni nchi zipi kando na Kanada hutuma watalii wengi nchini Marekani na je watalii hawa wanaelekea sehemu zipi kuu nchini Marekani?
+
+query_id: C015
+title: Ushindani wa Viwanda Barani Ulaya
+description: Je, ni mambo yepi huharibu ushindani wa viwanda barani Ulaya kwenye Masoko ya ulimwenguni?
+
+query_id: C016
+title: Akademia ya Ufaransa
+description: Pata hati kuhusu Akademia ya Ufaransa.
+
+query_id: C017
+title: Moto wa Msituni karibu na Sydney
+description: Je, moto wa msituni karibu na Sydney ulichoma kiasi kipi na ulikuwa hatari kiwango kipi?
+
+query_id: C018 
+title: Wahasiriwa wa pambana dhidi ya moto 
+description: Pata hati zinazojadili majeraha kwa watu wanaohusika kwenye pambano dhidi ya moto.
+
+query_id: C019
+title: Vita vya Gulf War Syndrome 
+description: Pata hati zinazojadili vita vya Gulf War syndrome.
+
+query_id: C020
+title: Sarafu Moja ya Bara Ulaya
+description: Je, manufaa na madhara ya kuwepo kwa sarafu moja barani Ulaya ni yepi?
+
+query_id: C021
+title: Eneo la Kiuchumi la Ulaya
+description: Pata hati kuhusu Eneo la Kiuchumi la Ulaya (EEA).
+
+query_id: C022
+title: Ajali za Ndege kwenye Eneo la Kutua 
+description: Tambua matukio ambapo maajali ya ndege yametokea kwenye eneo la ndege kutua wakati wa oparesheni za ndege.
+
+query_id: C023
+title: Ujauzito baada ya Umri wa Kutoweza kutunga mimba
+description: Mwaka 1994, mwanamke mwitaliano ambaye alitungwa mimba baada ya umri wa kuweza kupata ujauzito kupita alijifungua mtoto mvulana, akawa mwanamke mzee zaidi duniani kujifungua. Je, jina lake ni nanai na alikuwa na umri upi? 
+
+
+query_id: C024 title: Shirika la Biashara Ulimwenguni description: Je, maoni ya watu nchini Marekani kuhusu GATT/Shirika la Biashara Ulimwenguni ni yepi?
+
+query_id: C025
+title: Ufisadi nchini Italia          
+description: Je, ni watu wepi walioduhumu kama mawaziri wamefungwa jela kwa kosa la kukubali hongo?                 
+
+query_id: C026
+title: Matumizi ya Nguvu za Umeme kutokana na Upepo 
+description: Toa mifano ya matumizi ya nguvu za umeme kutokana na upepo
+
+query_id: C027
+title: Kutangamana kwa Wahamiaji nchini Ujerumani
+description: Kwa nini wahamiaji nchini Ujerumani waliochelewa wanapata ugumu wa kutangamana?
+
+query_id: C028
+title: Mbinu za Kufunza Watu wasio Wazungumzaji wa Kiingereza 
+description: Ni mbinu zipi hutumika katika shule za Marekani kufunza wanafunzi ambao lugha yao asili ni tofauti na Kiingereza?
+
+query_id: C029
+title: Tuzo la Nobel la Uchumi
+description: Nani alishinda Tuzo la Noble la Uchumi mwaka wa 1994 na kutokana na nadharia gani?
+
+query_id: C030
+title: Paa la Duka kubwa mjini Nice imeporomoka
+description:  Ni nini kilisababisha kuporomoka kwa paa la Duka kubwa mjini Nice na ilisababisha madhara yepi?
+
+query_id: C031
+title: Kulindwa kwa Wanunuzi katika Umoja wa Ulaya
+description:  Pata ripoti kuhusu ulinzi wa wanunuzi katika Uoja wa Ulaya.
+
+
+query_id: C032 
+title: Mapadri wanawake
+description: Pata hati kuhusu kutawazwa kwa wanawake katika Makanisa yaliyo Ulaya. 
+
+query_id: C033
+title: Jenetiki ya Saratani
+description: Pata hati zinazojadili mambo yaliyogunduliwa hivi majuzi kuhusu uhusiano baina ya jenetiki na saratani.
+
+query_id: C034 
+title: Matumizi ya Pombe Barani Ulaya
+description: Pata hati kuhusu matumizi ya pombe Barani Ulaya.
+
+query_id: C035
+title: Mbwa mwitu nchini Italia
+description: Mbwa mwitu huweza kupatikana wapi nchini Italia?      
+
+query_id: C036               
+title: Uzalishaji wa Mafuta ya Mzeituni katika Mediterranean
+description: Je, kiwango kipi cha mafuta ya mzeituni hualishwa katika eneo la Mediterranean?
+
+query_id: C037 
+title: Kuzama kwa Estonia
+description: Pata hati zinazoeleza kuzama kwa meli kubwa ya Estonia katika Bahari ya Baltic na kuripoti uchunguzi unaoendelea.
+
+query_id: C038
+title: Kurejeshwa kwa Miili ya Wanajeshi 
+description: Tambua matukio ambapo miili ya wanajeshi waenda zao inarejeshwa katika nchi zao kwa ajili ya kuzikwa upya.
+
+query_id: C039
+title: Uwekezaji katika Ulaya ya Mashariki au Urusi 
+description: Tambua kampuni ambazo zinafanya au zimefanya uwekezaji katika Ulaya ya Mashariki au Urusi baada ya kuvunika kwa iliyokuwa USSR. 
+
+
+﻿query_id: C040	
+title: Ubinafsishaji wa Reli ya Ujerumani
+description: Pata hati kuhusu ubinafsishaji wa reli ya Ujerumani.
+
+
+query_id: C041 
+title: Dawa za kuulia wadudu katika Chakula cha Mtoto 
+description: Pata ripoti kuhusu dawa za kuulia wadudu katika chakula cha mtoto. 
+
+
+
+
+query_id: C042 
+title: Uvamizi wa U.N./US wa Haiti 
+description: Pata hati kuhusu uvamizi wa Haiti na wanajeshi wa U.N./US. 
+
+
+
+query_id: C043 
+title: Mvua ya El Niño na Hali ya Hewa 
+description: Pata ripoti zinazofafanua mvua ya "El Niño"na athari zake kwenye hali ya hewa duniani (ikiwa pamoja na athari kwenye hali ya joto, shinikizo la hewa, mvua, n.k.). 
+
+
+
+
+query_id: C044 
+title: Indurain Ashinda Safari 
+description: Maoni kuhusu Safari ya nne ya Tour de France ambayo Miguel Indurain aliibuka mshindi. 
+
+
+query_id: C045 
+title: Mkataba wa amani wa Israeli/Jordan 
+description: Pata ripoti inayotaja majina ya waamuzi wakuu wa mkataba wa amani wa Mashariki ya Kati kati ya Israeli na Jordan na piahati zinazotoa maelezo ya kina kuhusu mkataba huu. 
+
+
+
+
+query_id: C046 
+title: Vikwazo dhidi ya Iraq 
+description: Athari ambazo vikwazo vya U.N. vilikuwa navyo kwenye maisha ya watu wa Iraqi? 
+
+
+
+
+query_id: C047 
+title: Urusi kuvamia Chechnya 
+description: Ni nini sababu za uvamizi wa kijeshi wa Urusi katika Chechnya? 
+
+
+
+
+query_id: C048 
+title: Wanajeshi wa Kulinda Usalama nchini Bosnia 
+description: Sababu za Umoja wa Kimataifa (UN) kuondoa wanajeshi wa-kulinda amani nchini Bosnia. 
+
+
+
+query_id: C049 
+title: Kupungua katika Mauzo ya Nje ya Magari ya Ujapani 
+description: Hati zitaripoti kuhusu kupungua katika mauzo ya nje ya magari kutoka Ujapani. 
+
+
+
+query_id: C050 
+title: Uasi katika Chiapas 
+description: Pata ripoti kuhusu vuguvugu la uasi la watu kutoka India, Chiapas(Mexico). 
+
+
+
+query_id: C051 
+title: Mashindano ya Soka Ulimwenguni 
+description: Pata hati inayoripoti kuhusu mchezo wa fainali ya kombe la dunia ya soka mwaka wa 1994. 
+
+
+query_id: C052 
+title: Kushuka kwa Thamani ya Sarafu ya Uchina 
+description: Pata hati zinazofafanua sababu na athari ya kushuka kwa thamani ya sarafu ya Uchina. 
+
+
+query_id: C053 
+title: Chembechembe za jini na Magonjwa 
+description: Je, ni chembechembe zipi za jini zimetambuliwa kwamba ndizo chanzo cha au zinachangia magonjwa au matatizo ya ukuaji kwa binadamu? 
+
+
+
+query_id: C054 
+title: Matokeo Manne ya Fainali 
+description: Pata hati zinazotoa matokeo Manne ya Fainali ya Mchezo wa Vikapu Barani Ulaya. 
+
+
+
+query_id: C055 
+title: Mradi wa Uswizi kwa ajili ya Alps  
+description: Pata hati zinazoonyesha ripoti kuhusu mradi wa Uswizi unaolenga kudhibiti trafiki unaopitia Alps. 
+
+
+
+
+
+query_id: C056 
+title: Kampeni za Ulaya dhidi ya Ubaguzi wa Rangi 
+description: Pata hati zinazozungumza kuhusu kampeni dhidi ya ubaguzi wa rangi barani Ulaya. 
+
+
+
+query_id: C057 
+title: Kesi ya Damu Chafu 
+description: Pata maelezo yote kuhusu kesi za damu chafu nchini Ufaransa zikiwemo adhabu zilizotolewa na koti na majina ya watu walipatikana na hatia. 
+
+
+
+query_id: C058 
+title: Uuaji wema 
+description: Hati zitafafanua hali za uuaji wema unaoeleweka kama "kifo cha heshima" au "haki ya kufa". 
+
+
+query_id: C059 
+title: Virusi vya Kompyuta 
+description: Pata hati kuhusu virusi vya kompyuta. 
+
+
+
+query_id: C060 
+title: Ufisadi katika Siasa za Ufaransa 
+description: Pata hati kuhusu ufisadi katika siasa nchini Ufaransa, hasa kwa kurejelea ufadhili wa vyama vya kisiasa nchini Ufaransa kinyume na sheria. 
+
+
+query_id: C061 
+title: Tatizo ya Mafuta nchini Serbia 
+description: Pata maelezo kuhusu kupasuka kwa bomba la mafuta nchini Serbia. 
+
+
+
+query_id: C062 
+title: Tetemeko la Ardhi Ujapani Kaskazini 
+description: Pata hati zinazo ripoti kuhusu tetemeko la ardhi katika mashariki ya pwani ya Hokkaido, Ujapani kaskazini, mnamo 1994. 
+
+
+query_id: C063 
+title: Matunzio ya Nyangumi 
+description: Pata hati kuhusu matunzio barani Antarctic ambapo uwindaji wa nyangumi umeharamishwa. 
+
+
+query_id: C064 
+title: Mfumo wa Kompyuta wa RSI 
+description: Pata hati zinazo ripoti kuhusu mfumo wa RSI wa kompyuta. 
+
+
+
+query_id: C065 
+title: Uwindaji wa Thamani 
+description: Pata hati kuhusu wawindaji wa thamani na Shughuli za uwindaji thamani. 
+
+query_id: C066 
+title: Kujiondoa kwa Urusi kutoka Latvia 
+description: Pata ripoti na mijadala kuhusu kujiondoa kwa majeshi ya Urusi kutoka Latvia. 
+
+
+query_id: C067 
+title: Kugongana kwa Meli 
+description: Pata maelezo kuhusu idadi ya watu waliojeruhiwa au kuuawa katika kugongana kwa meli. 
+
+
+
+query_id: C068 
+title: Mashambulizi kwenye Madhabahu ya Ulaya 
+description: Pata hati zinazofafanua matendo ya ugaidi au uharibifu dhidi ya madhabahu ya Ulaya tangu mwisho wa Vita vya Pili vya Dunia. 
+
+
+query_id: C069 
+title: Uzalishaji viumbe na Maadili 
+description: Je, ni katika hali zipi haswa ambapo uzalishaji wa viumbe hutokea nanini mjadala wa kimaadili dhidi yake? 
+
+
+query_id: C070 
+title: Kifo cha Kim Il Sung 
+description: Pata hati zinazotoa maelezo ya kibayografia ya Kim Il Sung, rais wa Korea Kaskazini, aliyeaga dunia mnamo 1994. 
+
+
+
+query_id: C071 
+title: Mboga, Matunda na Saratani 
+description: Pata hati zinazohusisha ulaji wa mboga na matunda na ugonjwa wa saratani. 
+
+
+
+
+query_id: C072 
+title: Mkutano wa G7 kule Naples 
+description: Je, Urusi ulikuwa na nafasi gani katika mkutano wa G7 kule Naples mnamo 1994? 
+
+
+query_id: C073 
+title: Kura ya Maoni nchini Norwei kuhusu Umoja wa Ulaya 
+description: Je, mataifa mengine barani Ulaya yalikuwa na maoni yepi baada ya matokeo hasi ya kura ya maoni ya Norwei ambapo nchi ya Norwei ilifanya uamuzi dhidi ya uanachama wa Umoja wa Ulaya (EU). 
+
+
+query_id: C074 
+title: Kuzinduliwa kwa Mkondo wa Handaki 
+description: Pata hati zinazo fafanua uzinduzi wa Mkondo wa Handaki na kutajwa kwa wawakilishi wa kitaifa wa Uingereza na Ufaransa waliohudhuria sherehe. 
+
+
+query_id: C075 
+title: Mauwaji ya Halaiki katika Makaazi ya Euskirchen 
+description: Pata hati kuhusu mauwaji ya halaiki katika Euskirchen,Ujerumani, ambapo watu 7 waliuawa. 
+
+
+
+query_id: C076 
+title: Nishati ya Sola 
+description: Je, ni matumizi yepi ambapo nishati ya sola hutumiwa au kuzingatiwa kutumiwa siku za usoni? 
+
+
+query_id: C077 
+title: Kujitoa uhai miongoni mwa Barobaro 
+description: Je, ni maelezo yepi yanayopatikana kuhusu kujitoa uhai miongoni mwa barobaro? 
+
+
+
+query_id: C078 
+title: Mashindano ya Filamu ya Venice 
+description: Je, ni filamu ipi au zipi zilishinda katika Mashindano ya Filamu ya Golden Lion ya 51st Venice mnamo Septemba 1994? 
+
+query_id: C079 title: Uchunguzi wa Anga ya Ulysses description: Pata hati zinazofafanua misheni ya uchunguzi wa anga ya Ulaya kule Ulysses au kujadili madhumuni yake. 
+
+
+
+query_id: C080 
+title: Migomo ya Kutokula 
+description: Hati zitaripoti maelezo yoyote yanayohusiana na migomo ya kutokula yaliyojaribiwa ili kuvuta nadhari katika lengo fulani. 
+
+query_id: C081 
+title: Udakuzi wa Ndege ya Ufaransa 
+description: Pata maelezo kuhusiana na nafasi ya kikundi kilicho jihami cha kiislamu katika kudakua Ndege ya nchi ya Ufaransa. 
+
+
+query_id: C082 
+title: Mashambulizi ya IRA katika Angatua 
+description: Pata hati zinazofafanua matendo ya ugaidi na Vikosi vya Irish Republican Army (IRA) katika angatua za Ulaya. 
+
+
+
+query_id: C083 
+title: Mnada wa Lennon Memorabilia 
+description: Pata mnada wa umma wa John Lennon Memorabilia 
+
+
+query_id: C084 
+title: Mashambulizi ya Papa 
+description: Hati zitaripoti maelezo yoyote yanayohusiana na mashambulizi ya papa dhidi ya binadamu. 
+
+
+
+query_id: C085 
+title: Mpango wa kibinadamu wa Turquoise nchini Rwanda 
+description: Pata maelezo ya kina kuhusu oparesheni ya "Turquoise", mpango wa kibinadamu wa Ufaransa nchini Rwanda. 
+
+
+query_id: C086 
+title: Nguvu zinazoweza kuzalishwa upya 
+description: Pata hati zinazofafanua matumizi ya sera kuhusu nguvu "kijani kibichi", yaani, nguvu za umeme zinazozalishwa kutokana na vyanzo vinavyoweza kuzalishwa upya vya umeme. 
+
+
+query_id: C087 
+title: Mfumuko wa bei na Uchaguzi nchini Brazil 
+description: Pata hati zinazochanganua jinsi mpango wa “Plan Real” dhidi ya mfumuko wa bei ulivyochochea uchaguzi nchiniBrazil. 
+
+
+query_id: C088 
+title: Ugonjwa wa “Mad Cow” barani Ulaya 
+description: Pata hati zinazotaja kesi za ugonjwa wa Bovine SpongiformEncephalopathy (ugonjwa wa “mad cow”) barani Ulaya. 
+
+
+
+query_id: C089 
+title: Kufilisika kwa Schneider 
+description: Pata hati kuhusu kufilisika kwa mkisiaji mali wa Ujerumani, Jürgen Schneider. 
+
+
+query_id: C090 
+title: Wauzaji Mboga katika Masoko ya Nje 
+description: Ni nchi gani huuza mboga safi, zilizokaushwa au kuwekwa kwenye jokofu? 
+
+
+query_id: C091 
+title: AI katika Amerika ya Latino 
+description: Shirika la Amnesty International linaripoti kuhusu haki za kibinadamu katika Amerika ya Latino. 
+
+
+
+query_id: C092  
+title: Vikwazo vya Umoja wa Kimataifa dhidi ya Iraq 
+description: Je, nchi ya Iraq imechukua hatua zipi kutekeleza kuondolewa kwa vikwazo vya kiuchumi vya Umoja wa Kimataifa na vikwazo vya kisiasa ilivyowekewa baada yake kuvamia Kuwait mwaka wa 1990? 
+
+
+query_id: C093 
+title: Mradi wa Eurofighter 
+description: Pata hati zinazoripoti kuhusu EFA au mradi wa “Eurofighter”. 
+
+
+
+query_id: C094 
+title: Kurejea kwa Solzhenitsyn 
+description: Pata hati zinazoripoti kuhusu kurejea nchini Urusi kwa mshindi wa tuzo la Nobel la fasihi, Solzhenitsyn. 
+
+
+query_id: C095 
+title: Mzozo nchini Palestina 
+description: Pata makala yanayoshughulika na mizozo ya kivita katika ngone za Wapalestina na kuhusika kwa sehemu ya raia. 
+
+
+query_id: C096 
+title: Je, González anapaswa kujiuzulu? 
+description: Maombi ya umma yaliyofanywa na wanasiasa nchini Uhispania iliFelippe González ajiuzulu 
+
+
+
+query_id: C097 
+title: Kura ya maoni kuhusu uhuru wa Moldova 
+description: Pata hati zinazo ripoti kuhusu kura ya maoni kuhusu uhuru wa Jamhuri ya Moldova.  
+
+
+
+query_id: C098  
+title: Filamu zilizofanywa na kaka wawili Kaurismäki. 
+description: Tafuta taarifa kuhusu filamu ilizoelekezwa na mmojawapo kati ya kaka wawili Aki na Mila Kaurismäki. 
+
+
+
+query_id: C099 
+title: Kukataa Sadaka ya Kuteketezwa 
+description: Pata hati zinazoshughulikia hatua nchini Ujerumani za kudhibiti hatua za umma kukataa Shoah. 
+
+
+
+query_id: C100  
+title: Kesi ya Ujasusi wa Ames 
+description: Pata hati zinazoonyesha athari ya kesi ya ujasusi wa Ames kwenye mahusiano kati ya Marekani na Urusi. 
+
+
+
+query_id: C101 
+title: Cyprus na Umoja wa Ulaya 
+description: Je, nchi ya Cyprus inaweza kuwa mwanachama wa Umoja wa Ulaya? 
+
+
+query_id: C102 
+title: Ushindi wa Alberto Tomba 
+description: Pata hati zinazoripoti kuhusu mashindano ya kuteleza aliyoshinda Alberto Tomba. 
+
+
+query_id: C103 
+title: Kugongana kwa Masilahi nchini Italia 
+description: Pata hati zinazojadili tatizo la kungongana kwa masilahi ya waziri mkuu wa Italia, Silvio Berlusconi. 
+
+
+
+query_id: C104 
+title: Medali ya Dhahabu ya Super G  
+description: Nani alishinda medali ya dhahabu ya super G katika Lillehammer katika Michezo ya Olimpiki ya 1994? 
+
+
+query_id: C105 
+title: Pumu ya mishipa ya Bronchial 
+description: Pata hati zinazozungumza kuhusu pumu ya mishipa ya bronchial na ugunduzi wa hizi majuzi wa kiafya kuhusiana na ugonjwa huo wa kupumua. 
+
+
+query_id: C106 
+title: Viwanda vya magari vya Ulaya 
+description: Pata hati ambazo zinaripoti kuhusu hali ya viwanda vya magari barani Ulaya kuhusiana na kushuka kwa mauzo (tatizo la mauzo) na hatua zinaweza kuchukuliwa dhidi yake. 
+
+
+
+query_id: C107 
+title: Uhandisi wa kijenetiki 
+description: Je, uhandisi wa kijenetiki huanzisha vipi mzunguko wa chakula cha binadamu? 
+
+query_id: C108 
+title: Kujitenga kwa Yemen ya Kusini 
+description: Je, ni athari zipi za kijamii na kiuchumi zinazosababishwa na azimio la kujitenga kwa Yemen ya Kusini? 
+
+
+
+
+query_id: C109  
+title: Usalama wa Kompyuta  
+description: Je, hali ya usalama wa kompyuta kuhusiana na ufikiaji mtandaoni ni ipi? 
+
+
+query_id: C110 
+title: Kukabidhiwa kwa Washukiwa kutoka Iran 
+description: Ufaransa iliwatuma Tehran watu wawili kutoka Iran wanaoshukiwa kumwua Kazem Radjavi nchini Uswizi. 
+
+query_id: C111 
+title: Uhuishaji kwenye Kompyuta 
+description: Pata mijadala kuhusu athari ya uhuishaji kwenye kompyuta katika tasnia ya filamu. 
+
+
+query_id: C112 
+title: Filamu ya Pulp Fiction 
+description: Je, filamu ya Pulp Fiction iliyofanywa na Quentin Tarantino ilishinda tuzo lipi katika Tamasha za Cannes? 
+
+
+
+query_id: C113 
+title: Kombe la Bara Ulaya 
+description: Pata hati kuhusiana na hatua za mwanzo na masuala mengine ya maandalizi kuhusiana na Kombe la Kandanda Barani Ulaya la 1996. 
+
+
+
+query_id: C114 
+title: Vita vya Kikabila nchini Afghanistan 
+description: Pata hati zinazoeleza hali ya kisiasa nchini Afghanistan iliyosababisha vita vya kikabila baada ya kuondolewa kwa kiongozi wa kikomunisti Najibullah. 
+
+
+query_id: C115  
+title: Takwimu kuhusu Utengano katika ndoa  
+description: Toa takwimu kuhusu viwango vya kutengana kwa wanandoa katika nchi mbalimbali. 
+
+
+
+query_id: C116 
+title: Ubao wa kuteleza 
+description: Pata hati zinazojadili kuanzishwa kwa mchezo mpya wa msimu wa baridi: Ubao wa Kuteleza. 
+
+
+query_id: C117 
+title: Uchaguzi wa Wabunge barani Ulaya 
+description: Je, wapigaji kura wangapi walialikwa kupiga kura ili kuchagua wabunge wapya wa Ulaya mwaka 1994? 
+
+
+
+query_id: C118 
+title: Kamishna wa Kwanza wa Umoja wa Ulaya wa Finland. 
+description: Nani aliteuliwa kuwa kamishna wa kwanza wa Finland katika Umoja wa Ulaya? 
+
+
+query_id: C119 title: 
+Kuharibiwa kwa Silaha za kinyuklia za Ukrain 
+description: Pata hati zinazoripoti kuhusu makubaliano kati ya Ukraine, Urusi na Marekani kuhusu kuondolewa na kuharibiwa kwa silaha za kinyuklia za Ukraine kabla ya mwezi juni 1996. 
+
+
+query_id: C120 
+title: Edouard Balladur 
+description: Ni nini umuhimu wa sera za kiuchumi za Edouard Balladur kwa Umoja wa Ulaya?  
+
+
+
+query_id: C121 
+title: Mafanikio ya Ayrton Senna 
+description: Toa rekodi ya mafanikio ya kispoti ya mwendesha magari za mbio raia wa Brazil, Ayrton Senna. 
+
+
+
+query_id: C122 
+title: Viwanda vya magari Marekani kaskazini 
+description: Pata hati zinazojadili juhudi za viwanda vya kutengeza magari katika Amerika Kaskazini kuboresha mauzo yao katika masoko ya nyumbani na ya kimataifa. 
+
+
+
+query_id: C123 
+title: Ndoa ya Jackson-Presley 
+description: Pata hati zinazoripoti kuhusu ndoa iliyodhaniwa katika ya Jackson na Lisa Marie Presley au kutengana kwao. 
+
+
+
+query_id: C124 
+title: Sera za pamoja za kimataifa na usalama (CFSP) 
+description: Pata maelezo kuhusu kuundwa kwa sera ya pamoja ya kimataifa na usalama ya Umoja wa Ulaya. 
+
+
+
+query_id: C125 
+title: Sarafu moja Barani Ulaya  description: Je, ni ratiba ipi inayotabiriwa ya sarafu moja barani Ulaya? 
+
+
+query_id: C126 
+title: Hatua dhidi ya tasnia ya manyoya. 
+description: Pata maelezo kuhusu kupingwa au matendo ya fujo dhidi ya tasnia ya manyoya. 
+
+
+
+query_id: C127 
+title: Kuhepa kwa Roldán  
+description: Kuhepa na safari ya ndege ya aliyekuwa kiongozi wa kitengo cha Spanish Civil Guard, Luis Roldán 
+
+
+
+query_id: C128 
+title: Taswira ya Ngono katika Matangazo 
+description: Pata makala yanayoshughulikia matangazo ya kuvutia yanayosheni taswira ya ngono na athari zake kwenye jamii. 
+
+
+query_id: C129 
+title: nyota bilioni 100 zimegunduliwa 
+description: Kile ufanisi wa kiteknolojia uliruhusu kugunduliwa kwa idadi ya juu ya kipekee ya nyota mwaka 1994. 
+
+
+query_id: C130 
+title: Kifo cha kiongozi wa Nirvana 
+description: Je, aliyekuwa mwimbaji mkuu wa mtindo wa rock na kikundi cha grunge kutoka Marekani alikufaje? 
+
+
+
+query_id: C131 
+title: Haki Miliki ya Mali ya Akili 
+description: Pata maelezo kuhusu haki za waundaji wa haki miliki ya mali ya akili na juhudi zinazofanywa na kuwapa waundaji ulinzi. 
+
+
+
+query_id: C132 
+title: Eneo la Kaliningrad 
+description: Pata hati zinazojadili mustakabali wa kisiasa na kiuchumi wa eneo la Kaliningrad Exclave. 
+
+
+query_id: C133 
+title: Vikosi vya Usalama vya Ujerumani nje ya eneo 
+description: Pata hati zinazoripoti kuhusu maamuzi ya kisiasa na kisheria kuhusu matumizi ya Majeshi ya Ujerumani nje ya eneo. 
+
+
+
+query_id: C134 
+title: Uchunguzi wa anga ya Clementine 
+description: Pata ripoti kuhusu uchunguzi wa Marekani wa anga ya Clementine, uliozinduliwa ili kukusanya data kuhusu mwezi na nyota namna ya near-Earth asteroid 1620 Geographos. 
+
+
+query_id: C135 
+title: Wagombeaji kiti cha urais wa Tume ya Ulaya 
+description: Nani alitangazwa kuwa anayeweza kuwa mgombeaji wa urais wa Tume ya Ulaya? 
+
+
+
+query_id: C136 
+title: Jumba la Pisa linaloelekea kuanguka 
+description: Je, hali ya usalama wa Jumba la Pisa linaelekea kuanguka ni ipi? 
+
+
+
+query_id: C137 
+title: Mashindano ya Kimataifa ya Urembo 
+description: Pata majina ya washindi katika mashindao ya kimataifa ya urembo mwaka wa 1994 au 1995. 
+
+
+query_id: C138 
+title: Maneno mageni kwa Kifaransa 
+description: Pata hati zinazoshughulikia nafasi ya maneno mageni katika Kifaransa. 
+
+
+query_id: C139 
+title: Viwango vya uvuvi katika Umoja wa Ulaya  
+description: Pata maelezo kuhusu viwango vya uvuvi katika Umoja wa Ulaya. 
+
+
+
+
+query_id: C140 
+title: Simu za mkononi 
+description: Uwezekano wa kutumika kwa simu za mkononi. 
+
+
+query_id: C141 
+title: Barua yenye Bomu kwa Kiesbauer 
+description: Pata maelezo kuhusu kulipuka kwa bomu ya barua katika studio mtangazaji Arabella Kiesbauer za PRO7. 
+
+
+query_id: C142 
+title: Christo kukamilisha Reichstag ya Ujerumani 
+description: Pata ripoti kuhusu kukamilishwa kwa Reichstag ya Ujerumani jijini Berlin na msanii Christo. 
+
+
+query_id: C143 
+title: Kongamano la Wanawake jijini Beijing 
+description: Misimamo tata ya baadhi ya wajumbe ilimaanisha kwamba Kongamano la Wanawake jijini Beijing lilikuwa katika hatari ya kutofaulu. 
+
+
+query_id: C144 
+title: Uasi nchini Sierra Leone na Almasi
+description: Je, athari za uasi na msukosuko mwingine wa kisiasa kwenye tasnia ya almasi nchini Sierra Leone ni zipi? 
+
+
+query_id: C145 
+title: Kuletwa kwa Mchele nchini Ujapani 
+description: Pata hati zinazojadili sababu na athari ya mchele wa kwanza kuletwa nchini Ujapani kutoka nje. 
+
+
+
+query_id: C146 
+title: Vyakula vya Haraka nchini Ujapani 
+description: Kampuni zipi za Amerika Kaskazini za vyakula vya haraka zina idadi kubwa ya mikahawa ya biashara nchini Ujapani? 
+
+
+query_id: C147 
+title: Ajali za Mafuta na Ndege 
+description: Pata hati zinazoeleza hasara na majeraha kwa ndege zinazosababishwa na kumwagika kwa mafuta au uchafuzi wa mazingira. 
+
+
+query_id: C148 
+title: Uharibifu wa Ozone Layer 
+description: Je, ni shimo zipi kwenye ozone layer ambazo si athari ya uchafuzi wa mazingira? 
+
+query_id: C149 
+title: Ziara ya Papa nchini Sri Lanka 
+description: Pata ripoti kuhusu kupingwa au matatizo yaliyo sababishwa na maazimio yaliyopita ya Papa kuhusu Ubudha wakati wa ziara yake nchini Sri Lanka. 
+
+
+query_id: C150 
+title: AI kupinga Hukumu ya Kifo 
+description: Pata ripoti kuhusu hatua mahususi za Amnesty International dhidi ya hukumu ya kifo. 
+
+
+query_id: C151 
+title: Malimwengu ya Ulimwengu wa Zamani 
+description: Tafuta taarifa kuhusu kuwepo na/au ugunduzi wa mabakio ya malimwengu saba ya ulimwengu wa zamani. 
+
+
+query_id: C152 
+title: Haki za Watoto 
+description: Pata taarifa kuhusu Kongamano la Umoja wa Mataifa kuhusu Haki za Mtoto. 
+
+
+query_id: C153 
+title: Michezo ya Olimpiki na Amani 
+description: Pata hati zinazoripoti kuhusu jinsi Michezo ya Olimpiki inaweza kuchangia katika amani ulimwenguni. 
+
+
+
+query_id: C154 
+title: Uhuru wa Kuzungumza Mtandaoni 
+description: Pata hati zinazojadili udhibiti na uhuru wa kuzungumza mtandaoni. 
+
+
+query_id: C155 
+title: Hatari na Simu za Mkononi 
+description: Ni hatari zipi zilizopo katika matumizi ya simu za mkononi watu wengi? 
+
+
+query_id: C156 
+title: Miungano ya Wafanyakazi 
+description: Ni nini tofauti kati ya nafasi na umuhimu wa miungano ya wafanyakazi baina ya nchi za bara Ulaya? 
+
+
+query_id: C157 
+title: Washindi Kina dada wa Wimbledon 
+description: Toa majina ya washindi wowote wa mashindano ya tenisi kwa kina dada ya Wimbledon. 
+
+
+query_id: C158 
+title: Fujo za Soka mjini Dublin 
+description: Pata ripoti kuhusu kufutiliwa kwa mechi ya kimataifa ya soka kati ya Ayalandi na Uingereza mjini Dublin baada ya fujo. 
+
+
+query_id: C159 
+title: Mazingira ya Mafuta ya katika Kaskazini mwa Bahari 
+description: Ni hatua zipi zinachukuliwa kulinda mazingira kutokana na kuongezeka kwa uzalishaji wa utafutaji wa mafuta katika Kaskazini mwa Bahari? 
+
+
+query_id: C160 
+title: Matumizi ya Zao la Scotch 
+description: Hati zitajadili kiasi cha zao la scotch kinacholiwa na Wanaskoti ikilinganishwa na kiasi cha scotch kinachouzwa katika masoko nje ya Scotland. 
+
+
+query_id: C161 
+title: Lishe kwa watu wenye ugonjwa unaoletwa na kula gluteni 
+description: Je, ungependa kupata ripoti zinazojadili matatizo ya lishe kwa watu wenye ugonjwa unaoletwa na kula gluteni? 
+
+
+query_id: C162 
+title: Forodha za Umoja wa Ulaya na Uturuki 
+description: Pata hati kuhusu matatizo yanayowekwa na Ugiriki kuhusiana na kuondolewa kwa vikwazo vya kiforodha katika Umoja wa Ulaya na Uturuki. 
+
+
+query_id: C163 
+title: Vikwazo dhidi ya Uvutaji sigara 
+description: Pata hati kuhusu kanuni au sheria ambazo zinalenga kupiga marufuku au kuwekea vikwazo uvutaji sigara kwenye mikahawa. 
+
+
+query_id: C164 
+title: Hukumu kuhusu Dawa za kulevya Barani Ulaya 
+description: Ni hukumu zipi hutolewa barani Ulaya kwa kufanya biashara isiyo halali ya dawa za kulevya? 
+
+query_id: C165 
+title: Tuzo za Golden Globes 1994 
+description: Je, ni filamu gani ilishinda tuzo za drama za Golden Globe katika msimu wa 1994? 
+
+
+query_id: C166 
+title: Generali wa Ufaransa na Usalama wa Eneo la Balkan 
+description: Nani alikuwa Generali wa Ufaransa aliyewajibikia uundaji wa eneo la usalama wakati wa mzozo wa Balkan? 
+
+
+query_id: C167 
+title: Mahusiano baina ya China-Mongolia 
+description: Pata maelezo kuhusu mahusiano ya hivi majuzi na makubaliano ya ushirikiano kati ya China na Mongolia. 
+
+
+query_id: C168 
+title: Mauwaji ya Rabin 
+description: Ni nani alimpiga Yitzhak Rabin na kwa nini? 
+
+
+query_id: C169 
+title: Uvumbuzi wa CD-Burner 
+description: Pata hati kuhusu CD-burner na maoni ya tasnia ya sauti kuihusu. 
+
+
+query_id: C170 
+title: Lugha Rasmi za Umoja wa Ulaya 
+description: Pata hati kuhusu mipango ya ufaransa ya kupunguza idadi ya lugha rasmi katika Umoja wa Ulaya hadi lugha tano. 
+
+
+query_id: C171 
+title: Fainali za Ice Hockey katika Lillehammer 
+description: Timu zipi zilicheza katika finali za ice hockey katika michezo ya Olimpiki ya 1994 mjini Lillehammer? 
+
+
+
+query_id: C172 
+title: Rekodi za Mbio za Dunia za 1995 
+description: Ni rekodi zipi zipya za dunia ziliafikiwa katika mbio za dunia za 1995 mjini Gothenburg? 
+
+
+query_id: C173 
+title: Ushahidi wa Wataalamu bandia 
+description: Pata ripoti kuhusu ushahidi wa kupimwa wa wataalum bandia na Wataalamu wa Marekani. 
+
+
+query_id: C174 
+title: Mzozo Kuhusu Ishara ya Msalaba ya Bavaria 
+description: Pata ripoti kuhusu mzozo kuhusu Ishara ya Msalaba katika shule za Bavaria. 
+
+
+query_id: C175 
+title: Uharibifu wa Kimazingiwa wa Everglades 
+description: Pata ripoti kuhusu uharibifu wa mazingira katika Everglades, kwa mfano unaosababishwa na kampuni ya sukari ya Florida. 
+
+
+query_id: C176 
+title: Nyota ya Shoemaker-Levy sayari ya Jupita 
+description: Pata ripoti kuhusu kuporomoka kwa nyota ya Shoemaker-Levy na athari yake kwenye sayari ya Jupita. 
+
+
+query_id: C177 
+title: Matumizi ya Maziwa barani Ulaya 
+description: Toa takwimu au maelezo kuhusu matumizi ya maziwa katika nchi za bara Ulaya. 
+
+
+query_id: C178 
+title: Kukataa kwa Huduma ya Kijeshi 
+description: Pata kesi za watu ambao wako tayari kuenda jela kuliko kuhudumu katika jeshi. 
+
+
+query_id: C179 
+title: Kujiuzulu kwa Katibu Mkuu wa NATO 
+description: Kwa nini katibu mkuu wa NATO alilazimishwa kujiuzulu mnamo 1995? 
+
+
+query_id: C180 
+title: Kufilisiska kwa Baring 
+description: Je, ilikuwa ni hasara kiasi gani katika kesi ya kufilisika kwa Baring? 
+
+query_id: C181 
+title: Majaribio ya Kinyuklia ya Ufaransa 
+description: Pata ripoti za shinikizo za kimataifa kusitisha majaribio ya kinyuklia ya Ufaransa. 
+
+
+query_id: C182 
+title: Maadhimisho ya 50 ya Kutua kule Normandy 
+description: Pata ripoti kuhusu kutua kwa parachuti angani Sainte-Mère-Église wakati wa maadhimisho ya hamsini ya kutua kule Normandy. 
+
+
+query_id: C183 
+title: Mabaki ya Dinosaur barani Asia 
+description: Je, mabaki ya Dinosaur yamepatikana sehemu gani ya Bara Asia? 
+
+
+query_id: C184 
+title: Likizo ya Kujifungua barani Ulaya 
+description: Pata hati ambazo zinatoa maelezo kuhusu kanuni zinazohusiana na urefu wa likizo ya kuifungua barani Ulaya. 
+
+
+query_id: C185 
+title: Picha za Dachi za Srebrenica 
+description: Ni nini kilifanyikia picha na filamu ambazo wanajeshi wa Dachi waliunda kule Srebrenica ambazo zilitoa ushahidi wa kukiukwa kwa haki za kibinadamu? 
+
+
+query_id: C186 
+title: Serikali ya Muungano ya Dachi 
+description: Vyama vipi vya kisiasa viliunda muungano tawala, ambayo ilijulikana kama baraza mzambarau la mawaziri nchini Uholanzi, mwaka 1994-1995? 
+
+query_id: C187 
+title: Usafirishwaji wa Nyuklia nchini Ujerumani 
+description: Pata ripoti kuhusu pingamizi dhidi ya usafirishaji wa uchafu wa radioactive na kontena za Castor nchini Ujurumani. 
+
+
+query_id: C188 
+title: Marekebisho ya Tahajia ya Ujerumani 
+description: Pata hati zinazoripoti kuhusu kuanzishwa kwa marekebisho ya tahajia katika lugha ya Kijerumani. 
+
+
+query_id: C189 
+title: Hubble na Mashimo ya Black 
+description: Nini ilikuwa nafasi ya teleskopu ya Hubble katika kutafuta kuthibitisha kuwepo kwa mashimo meusi? 
+
+
+query_id: C190 
+title: Ajira kwa Watoto barani Asia 
+description: Tafuta hati zinazojadili ajira kwa watoto barani Asia na mapendekezo ya jinsi ya kuondoa au kuboresha hali za kazi kwa watoto. 
+
+
+query_id: C191 
+title: Kilimo eneo la Ebro Delta 
+description: Je, shughuli kuu ya kilimo katika eneo la Ebro Delta mwanzoni mwa 1990 ilikuwa gani? 
+
+query_id: C192 
+title: Kuuawa kwa Mwelekezi wa TV wa Urusi 
+description: Jina la mkuu wa kampuni ya TV ya Urusi amabye alipigwa risasi kwenye vikwezi vya nyumba yake jijini Moscow ni nani? 
+
+
+query_id: C193 
+title: Umoja wa Ulaya na Mataifa ya Mashariki ya Pwani ya Bahari ya Baltic 
+description: Pata hati zinazojuza kuhusu makubaliano baina ya mataifa ya Mashariki ya Pwani ya Bahari Baltic (Estonia, Latvia au Lithuania) na Umoja wa Ulaya EU kuhusiana na uanachama. 
+
+
+
+query_id: C194 
+title: Familia ya Kifalme ya Italia 
+description: Pata taarifa kuhusu kufurushwa nje ya Italia kwa wanaume wote wa familia ya Nyumba ya Savoy. 
+
+
+query_id: C195 
+title: Kugoma kwa Wasaidizi kwenye Ndege wa Italia 
+description: Pata ripoti kuhusu kutatizwa au matatizo yaliyosababishwa na migomo ya wasaidizi kwenye ndege nchini Italia. 
+
+
+query_id: C196 
+title: Kujiunga kwa Benki za Ujapani 
+description: Pata ripoti kuhusu kuungana kwa benki za Ujapani Mitsubishi na Bank of Tokyo kuwa benki kubwa zaidi ulimwenguni. narrative: Taasisi hizo mbili za mikopo za Ujapani Mitsubishi Bank na Bank of Tokyo zilikubali kuungana. Benki mpya ndiyo kuwa zaidi ulimwenguni. 
+
+
+
+query_id: C197 
+title: Mkataba wa Amani wa Dayton 
+description: Pata ripoti kuhusu makubaliano ya Dayton kwa ajili ya kudumishwa kwa amani katika Bosnia-Herzegovina. 
+
+
+query_id: C198 
+title: Tuzo la heshima la Oscar kwa Waelekezi wa Kiitaliano 
+description: Tafuta maeelzo kuhusu waelekezi wa filamu wa Kiitaliano ambao wamepewa tuzo la Heshima la Oscar kwa kazi yao kuntu. 
+
+
+query_id: C199 
+title: Janga la Ebola nchini Zaire 
+description: Pata ripoti kuhusu hatua za kuzuia ugonjwa zilizochukuliwa baada ya kuzuka kwa janga la Ebola nchini Zaire. 
+
+
+query_id: C200 
+title: Mafuriko Uholanzi na Ujerumani 
+description: Pata takwimu kuhusu majanga ya mafuriko nchini Uholandi na Ujerumani mnamo 1995. 
+
+
